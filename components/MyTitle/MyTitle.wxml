@@ -1,0 +1,15 @@
+<view class="my_title">
+<!-- ctrl+/注释 -->
+<navigator class="logo">
+bilibili
+</navigator>
+<view class="search_icon">
+搜索
+</view>
+<view class="user_icon">
+用户头像
+</view>
+<view class="down_app">
+下载APP
+</view>
+</view>
